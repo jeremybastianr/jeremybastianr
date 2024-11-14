@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Jeremy B. Rorimpandey
+Experienced Android Developer and UX/UI Designer with a solid background in project management, system integration, and application optimization. Currently honing skills in front-end development, with a passion for creating seamless user experiences and efficient, responsive interfaces.
 
 <!--
 **jeremybastianr/jeremybastianr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
