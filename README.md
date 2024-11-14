@@ -1,16 +1,12 @@
-## Hi there 👋 I'm Jeremy B. Rorimpandey
+## Hi there 👋 I'm Jeremy B. Rorimpandey (H1)
 Experienced Android Developer and UX/UI Designer with a solid background in project management, system integration, and application optimization. Currently honing skills in front-end development, with a passion for creating seamless user experiences and efficient, responsive interfaces.
 
 Additionally, I am also running a small digital agency specializing in web development, graphic design, digital marketing, and UI/UX design at [Zefox Media](https://zefoxmedia.com). We provide innovative solutions to meet our clients’ digital needs in Indonesia.
 
-
-
-
-
-## Technology Stack 💻
+## Technology Stack 💻 (H2)
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,php,bootstrap,wordpress,git,postman,androidstudio,mysql&theme=light)](https://skillicons.dev)
 
-## Design Stack 🚀
+## Design Stack 🚀 (H2)
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,ps&theme=light)](https://skillicons.dev)
 
 
