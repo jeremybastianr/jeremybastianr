@@ -5,7 +5,7 @@ Additionally, I am also running a small digital agency specializing in web devel
 
 ## Technology Stack 💻 
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,react,php,bootstrap,wordpress,git,postman,npm,androidstudio,vscode,&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresl)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql&theme=dark)](https://skillicons.dev)
 
 ## Design Stack 🚀
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,ps&theme=light)](https://skillicons.dev)
