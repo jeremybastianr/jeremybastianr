@@ -4,7 +4,11 @@ Experienced Android Developer and UX/UI Designer with a solid background in proj
 Additionally, I am also running a small digital agency specializing in web development, graphic design, digital marketing, and UI/UX design at [Zefox Media](https://zefoxmedia.com). We provide innovative solutions to meet our clients’ digital needs in Indonesia.
 
 ## Technology Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,php,bootstrap,wordpress,git,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,php,bootstrap,wordpress,git,postman,androidstudio,mysql&theme=light)](https://skillicons.dev)
+
+## Design Stack 🚀
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps&theme=light)](https://skillicons.dev)
+
 
 <!--
 **jeremybastianr/jeremybastianr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
