@@ -1,3 +1,6 @@
+![My Image](images/my_banner.png)
+
+
 # Hi there 👋 I'm Jeremy B. Rorimpandey 
 Experienced Android Developer and UX/UI Designer with a solid background in project management, system integration, and application optimization. Currently honing skills in front-end development, with a passion for creating seamless user experiences and efficient, responsive interfaces.
 
